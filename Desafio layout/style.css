@@ -1,0 +1,100 @@
+body {
+    margin-top: 62px;
+    text-align: center;
+}
+body p{
+    font-family: 'Open Sans', sans-serif;
+    justify-content: center;
+}
+.titulo{
+    
+    color: #3F3D56;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: 'Dosis';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+}
+.titulo span {
+    color: #EE24FF;
+    font-family: Dosis;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+p span {
+    text-decoration: solid;
+}
+
+.caixa{
+    margin:auto;
+    text-align: center;
+    width: 540px ;
+    height: 107px;
+    
+}
+.caixa p{
+    color: #828282;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Open Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; /* 146.667% */
+}
+.caixa span{
+    color: #3F3D56;
+    font-family: Open Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+}
+
+#flutuar  {
+    color: #828282;
+    font-family: 'Open Sans';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+}
+
+.caixa2{
+    color: #828282;
+    text-align: center;
+    font-family: 'Open Sans';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 64px;
+}
+
+.link a{
+    text-decoration: none;
+    color: #3F3D56;
+    text-align: center;
+    font-family: 'Open Sans';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 147.682%; /* 22.152px */
+    margin: auto 32px ;
+}
+
+footer{
+    
+}
+.wave{
+    width: 1024px;
+    height: 104px;
+    flex-shrink: 0; 
+    margin-top: 40px;
+}
